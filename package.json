@@ -1,0 +1,17 @@
+{
+    "name": "com.produktivkeller.simple-logging",
+    "version": "0.1.0",
+    "displayName": "Simple Logging",
+    "description": "Simple Logging is a thin wrapper around the Unity logging system that helps you write cleaner logs.",
+    "keywords": [
+        "logging",
+        "logs",
+        "log",
+        "console"
+    ],
+    "author": {
+        "name": "PRODUKTIVKELLER Studios",
+        "email": "info.produktivkeller@gmail.com",
+        "url": "https://www.produktivkeller.com"
+    }
+}
